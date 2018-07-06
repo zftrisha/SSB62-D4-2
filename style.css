@@ -1,0 +1,223 @@
+*{
+	margin: 0;
+  padding: 0;
+}
+/*header start*/
+header{
+	overflow: hidden;
+  background-color: #A8423E;
+}
+.logo {
+	width: 20%;
+	float: left;
+}
+.logo img{
+	width: 100%;
+  padding: 8px 0px;
+}
+
+.nav {
+  overflow: hidden;
+	width: 70%;
+	float: right;
+}
+.nav ul{
+	list-style: none;
+	float: right;
+}
+.nav ul li{
+  list-style-type: none;
+  padding: 40px 0px;
+  padding-left: 150px;
+	float: left;
+}
+.nav ul li a{
+	    text-decoration: none;
+    	display: block;
+    	color: #FFFFFF;
+    	transition: 1s;
+}
+.nav ul li a:hover {
+	color: red;
+}
+
+/*header end*/
+/*banner start*/
+.banner {
+	overflow: hidden;
+	min-height: 350px;
+	background-color: #A6BAB9;
+	width: 100%;
+}
+
+.center {
+  background: #A5B9B8;
+  color: #5A4C4B;
+  margin: 40px auto;
+  min-height: 150px;
+  width: 40%;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.center h1
+{
+  font-size: 120px;
+}
+
+.center p{
+  font-size: 25px;
+}
+/*banner end*/
+/*service start*/
+.serivice {
+  background-color: #584E4C;
+	overflow: hidden;
+	width: 100%;
+	padding: 15px;
+  float: left;
+  padding-bottom: 15px;
+}
+.button button {
+  background-color: #DA914C;
+}
+
+.a {    
+    background-color: #E0DBD8;
+    overflow: hidden;
+    min-height: 200px;
+    width: 24%;
+    float: left;
+    margin-right: 7px;
+}
+.a1 {
+  overflow: hidden;
+  min-height: 40px;
+   text-align: center;
+  width: 100%;
+  padding: 5px;
+ }
+.a2 
+{
+  overflow: hidden;
+  min-height: 100px;
+  width: 100%;
+ }
+.button {
+  overflow: hidden;
+  text-align: center; 
+}
+
+.b {  
+    background-color: #E0DBD8;
+    overflow: hidden;
+    min-height: 200px;
+    width: 24%;
+    float: left;
+    margin-right: 7px;
+}
+.b1 {
+  overflow: hidden;
+  text-align: center;
+  min-height: 40px;
+  width: 100%;
+  padding: 5px;
+ }
+.b2 
+{
+  overflow: hidden;
+  min-height: 100px;
+  width: 100%;
+ }
+
+.c {
+    background-color: #E0DBD8;
+    overflow: hidden;
+    min-height: 200px;
+    width: 24%;
+    float: left;
+    margin-right: 7px;
+}
+.c1 {
+  overflow: hidden;
+   text-align: center;
+  min-height: 40px;
+  width: 100%;
+  padding: 5px;
+ }
+.c2 
+{
+  overflow: hidden;
+  min-height: 100px;
+  width: 100%;
+ }
+
+.d  {
+    background-color: #E0DBD8;
+    overflow: hidden;
+    min-height: 200px;
+    width: 24%;
+    float: left;
+    margin-right: 7px;
+}
+.d1 {
+  overflow: hidden;
+   text-align: center;
+  min-height: 40px;
+  width: 100%;
+ }
+.d2 
+{
+ 
+  overflow: hidden;
+  min-height: 100px;
+  width: 100%;
+ }
+
+/*service end*/
+/*footer start*/
+.footer {
+  overflow: hidden;
+  background-color: #A8403D;
+  border: 3px solid #C0414A;
+  padding: 0px;
+}
+
+.fa {
+  float: left;
+  width: 15%;
+  overflow: hidden;
+  padding: 2%;
+}
+
+.fa1 {
+  width: 20%;
+  float: left;
+}
+
+.fb {
+  float: left;
+  width: 15%;
+  overflow: hidden;
+  padding: 2%;
+}
+
+.fb1 {
+
+  width: 20%;
+  float: left;
+}
+.fc {
+  float: left;
+  width: 15%;
+  overflow: hidden;
+  padding: 2%;
+}
+
+.fc1 {
+
+  width: 20%;
+  float: left;
+}
+
+/*header end*/
